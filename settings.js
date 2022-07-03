@@ -39,7 +39,7 @@ global.author = ｉｄａｍｘｉｘｉツ //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣 //In list menu
+global.footer = '𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
