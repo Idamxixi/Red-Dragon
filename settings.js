@@ -19,15 +19,15 @@ global.APIKeys = {
 
 //customize settings\\
 
-global.alivemsg = `My name is 𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣
-My Creator is ｉｄａｍｘｉｘｉツ😎` //Costomize Alive Message (type your message in `` )
+global.alivemsg = `My name is 𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣タ
+My Creator is ｉｄａｍｘｉｘｉツ` //Costomize Alive Message (type your message in `` )
 
 global.owner = ['+6285691890852'] //Owner number in aive msg
 global.premium = ['+6285691890852'] //Owner Number info
 global.ownernomer = '+6285691890852' //Owner Number <<<
 
-global.ownername = 'ｉｄａｍｘｉｘｉツ' //Owner Name
-global.botname = ' 𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣タ' //Bot Name
+global.ownername = 'ｉｄａｍｘｉｘｉ' //Owner Name
+global.botname = ' 𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣' //Bot Name
 
 global.button = '🤭Youtube📍' //Costomize A Button Name In Alive Message
 global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
@@ -35,15 +35,15 @@ global.btnurl = 'https://youtu.be/E5C-lrl_g9I' //Change Your Button's URL
 global.region = 'India, South India, Kerala' //Country Region
 
 global.packname = '𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣' //Bot Pacage Name
-global.author = ｉｄａｍｘｉｘｉツ //Author Name
+global.author = 'ｉｄａｍｘｉｘｉツ' //Author Name
 global.prefa = ['','!','.','😂','❤','💠'] //Command Prefix eg:(.alive ,alive 😂alive)
 global.sessionName = 'session' //Session Name!
 global.sp = '⭔' //A Charactor In Menu!
-global.footer = '𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣' //In list menu
+global.footer = '©ｉｄａｍｘｉｘｉツ.' //In list menu
 global.chatbotpre = 'true'  // Chat bot true/false
 
 
-global.ig = 'https://github.com/prabhasha2006' //Github Account!
+global.ig = 'https://github.com/Idamxixi' //Github Account!
 
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
